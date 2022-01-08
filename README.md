@@ -11,7 +11,7 @@
 <a href="https://github.com/WSantos79">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=WSantos79&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSantos79&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="190em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WSantos79&theme=highcontrast"/>
+ <img height="191em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WSantos79&theme=highcontrast"/>
 </div>
 <br><br><br><br><br><br><br><br>
    
