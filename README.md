@@ -4,7 +4,7 @@
 👱🏼‍♂️ Meu nome é Wellington Santos.<br/>
 🌎 Eu moro em Franca-SP.<br/>
 🔍 Atualmente busco uma oportunidade em desenvolvimento Front-End.<br/>
-🚀 Sempre em busca de mais conhecimento 🚀
+🚀 Sempre em busca de mais conhecimento
 
 
 <div align="center">
