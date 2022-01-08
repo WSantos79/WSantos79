@@ -23,6 +23,3 @@
  #### :pushpin: [Agenda Web](https://github.com/WSantos79/Projeto-Agenda-Web)
    
 ![Snake animation](https://github.com/WSantos79/WSantos79/blob/output/github-contribution-grid-snake.svg) 
-
-
- 
