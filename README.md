@@ -21,8 +21,8 @@
  #### :pushpin: [Desafio FrontEnd](https://github.com/WSantos79/AluraDev)
  #### :pushpin: [Barbearia Alura](https://github.com/WSantos79/Projeto-Barbearia-Alura)
  #### :pushpin: [Agenda Web](https://github.com/WSantos79/Projeto-Agenda-Web)
- 
-
+   
+![Snake animation](https://github.com/WSantos79/WSantos79/blob/output/github-contribution-grid-snake.svg) 
 
 
  
