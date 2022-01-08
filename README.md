@@ -1,16 +1,28 @@
-### Hi there 👋
+# Wellington Santos :computer:
 
-<!--
-**WSantos79/WSantos79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ola! :wave:  Bem vindo ao meu perfil ✌️
+👱🏼‍♂️ Meu nome é Wellington Santos.<br/>
+🌎 Eu moro no interior de SP, em Franca.<br/>
+💻 Atualmente busco uma oportunidade em desenvolvimento web.<br/>
+🚀 Sempre em busca de mais conhecimento 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/WSantos79">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WSantos79&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>         <img height="200em" margin-right="15em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSantos79&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+##### Contato: 👇
+<a href="mailto:wellingtonsantos7799@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/wellingtonsantos79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ ### Veja meus últimos projetos: 👇
+ #### :pushpin: [Desafio FrontEnd](https://github.com/WSantos79/AluraDev)
+ #### :pushpin: [Barbearia Alura](https://github.com/WSantos79/Projeto-Barbearia-Alura)
+ #### :pushpin: [Agenda Web](https://github.com/WSantos79/Projeto-Agenda-Web)
+ 
+
+
+
+ 
