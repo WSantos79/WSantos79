@@ -17,7 +17,8 @@
 <img hspace="50"  align="right" src="https://user-images.githubusercontent.com/58752564/148696670-d7dae903-4422-42a8-9e26-88deedc2834f.png"/>
 </div>   
    
-<br><br><br><br><br><br><br><br>
+   
+<br><br><br><br><br><br><br><br><br>
 #### Contato: 👇
 <a href="mailto:wellingtonsantos7799@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/wellingtonsantos79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
