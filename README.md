@@ -22,6 +22,5 @@
 
    
  ### Veja meus últimos projetos: 👇
- #### :pushpin: [Desafio FrontEnd](https://github.com/WSantos79/AluraDev)
- #### :pushpin: [Barbearia Alura](https://github.com/WSantos79/Projeto-Barbearia-Alura)
+ #### :pushpin: [AluraDev](https://github.com/WSantos79/AluraDev)
  #### :pushpin: [Agenda Web](https://github.com/WSantos79/Projeto-Agenda-Web)
