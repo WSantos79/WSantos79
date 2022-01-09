@@ -12,7 +12,7 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSantos79&layout=compact&langs_count=7&theme=highcontrast"/>
 <img height="190em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WSantos79&theme=highcontrast"/>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
    
 #### Contato: 👇
 <a href="mailto:wellingtonsantos7799@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/wellingtonsantos79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
