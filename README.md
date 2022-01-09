@@ -14,7 +14,7 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=WSantos79&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSantos79&layout=compact&langs_count=7&theme=highcontrast"/>
 <img height="190em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WSantos79&theme=highcontrast"/>    
-<img hspace="70" height="190em" src="https://user-images.githubusercontent.com/58752564/148696670-d7dae903-4422-42a8-9e26-88deedc2834f.png"/>
+<img hspace="70" height="190em" src="https://user-images.githubusercontent.com/58752564/148697257-0165120c-faaa-49ac-b01c-d41331317d36.png"/>   
 </div>   
    
 #### Contato: 👇
