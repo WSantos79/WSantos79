@@ -5,7 +5,7 @@
 
 🌎 Eu moro em Franca-SP.<br/>
 
-🔍 Atualmente busco uma oportunidade área de desenvolvimento.<br/>
+🔍 Atualmente busco uma oportunidade na área de desenvolvimento.<br/>
 
 🚀 Sempre em busca de mais conhecimento
 
