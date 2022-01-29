@@ -5,7 +5,7 @@
 
 🌎 Eu moro em Franca-SP.<br/>
 
-🔍 Atualmente busco uma oportunidade na área de desenvolvimento.<br/>
+:dart: Sou desenvolvedor FrontEnd.<br/>
 
 🚀 Sempre em busca de mais conhecimento
 
