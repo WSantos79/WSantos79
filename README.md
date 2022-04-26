@@ -27,9 +27,9 @@
 
 
    
- ### Veja meus últimos projetos: 👇
- #### :pushpin: [Meus Heróis](https://github.com/WSantos79/MeusHerois)
+ ### Veja meus últimos projetos: 👇   
+ #### :pushpin: [AluraGeek](https://github.com/WSantos79/AluraGeek)    
  #### :pushpin: [BatChat](https://github.com/WSantos79/BatChat)  
  #### :pushpin: [AluraDev](https://github.com/WSantos79/AluraDev)
- #### :pushpin: [Agenda Web](https://github.com/WSantos79/Projeto-Agenda-Web)
+
  
